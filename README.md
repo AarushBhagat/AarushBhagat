@@ -42,6 +42,7 @@
 | ☁️ GCP / Firebase Hosting | Cloud Deployment | 🌍 Cloud Enabled |
 
 </div>
+
 ---
 
 ## 🏆 Projects That Deliver
