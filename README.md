@@ -1,13 +1,25 @@
-<div align="center">
 
-# Aarush Bhagat
-### Full Stack Developer | Backend Engineer | Cloud Enthusiast
+<!-- ======================== PREMIUM BANNER ======================== -->
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aarush%20Bhagat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=55&descSize=18"/>
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;Backend+Focused+Engineer;Cloud+%26+AI+Enthusiast;Engineering+Clean+%26+Reliable+Solutions" />
-</div>
+---
+
+<h3 align="center">Building Scalable Systems. Engineering Reliable Solutions.</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aarushbhagat03/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aarushbhagat093@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AarushBhagat">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
