@@ -21,20 +21,12 @@
 </p>
 
 ---
-```
-class AarushBhagat {
-  constructor() {
-    this.role = "Full Stack Developer";
-    this.specialization = "Backend & Scalable Systems";
-    this.coreStrengths = ["System Design", "Cloud Integration", "Optimization"];
-    this.currentFocus = "AI-Integrated Web Applications";
-  }
+## 🧠 Developer Identity
 
-  philosophy() {
-    return "Build clean. Scale smart. Ship reliably.";
-  }
-}
-```
+> **Full Stack Developer** specializing in scalable backend systems.  
+> Focused on clean architecture, cloud integration, and performance optimization.  
+> Currently building AI-integrated web platforms.
+
 ---
 ## ⚙️ Technical Arsenal
 
