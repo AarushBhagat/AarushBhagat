@@ -1,5 +1,4 @@
 
-<!-- ======================== PREMIUM BANNER ======================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aarush%20Bhagat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=55&descSize=18"/>
@@ -22,10 +21,6 @@
 </p>
 
 ---
-
-## 🧠 Developer Identity
-
-```typescript
 class AarushBhagat {
   constructor() {
     this.role = "Full Stack Developer";
@@ -44,22 +39,17 @@ Technology	Primary Usage	Level
 🐍 Python	Backend Logic & Automation	🔥 Strong
 ⚡ C++	DSA & Performance Systems	💪 Advanced
 ☕ Java	Enterprise & OOP Systems	📊 Proficient
-🌐 Web Stack	React, Node.js, Express	🚀 Production Ready
-🗄️ Databases	MySQL, MongoDB, Firebase	⚙️ Practical Experience
-☁️ Cloud	GCP, Firebase Deployment	🌍 Cloud Enabled
+🌐 React / Node / Express	Full Stack Development	🚀 Production Ready
+🗄️ MySQL / MongoDB / Firebase	Databases	⚙️ Practical Experience
+☁️ GCP / Firebase Hosting	Cloud Deployment	🌍 Cloud Enabled
 </div>
 🚀 Key Projects
 Project	Description	Stack	Status
 Eco-Route	Intelligent route optimization engine	Python, C++, Web	🚀 Completed
-Parivartan	Civic issue reporting platform	TypeScript, Firebase	🌐 Live System
-Full Stack Employee Portal	Role-based management system	React, Node, Firebase	🔐 Secure
+Parivartan	Civic issue reporting platform	TypeScript, Firebase	🌐 Live
+Employee Management Portal	Role-based secure system	React, Node, Firebase	🔐 Secure
 📊 GitHub Analytics
-<div align="center">
-
-
-
-
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AarushBhagat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushBhagat&layout=compact&theme=tokyonight&hide_border=true" /> <br/> <img src="https://streak-stats.demolab.com?user=AarushBhagat&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AarushBhagat&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" /> </div>
 🎯 Current Focus
 Backend Architecture & API Systems
 
@@ -70,21 +60,15 @@ AI Integration in Web Platforms
 Writing Clean, Maintainable Code
 
 💻 Tech Stack Visualization
-<div align="center">
-
-
-
-
-
-
-</div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,mongodb,mysql,firebase,gcp,git&theme=dark" /> </div>
 🌍 Connect With Me
 <div align="center">
 
 
 
-</div>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AarushBhagat&color=blueviolet&style=flat-square&label=Profile+Views" /> </div>
 <div align="center">
 💡 "Engineering solutions that scale with purpose."
-
-</div> ```
+</div>
