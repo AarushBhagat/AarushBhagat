@@ -36,21 +36,20 @@ class AarushBhagat {
 }
 ```
 ---
-⚙️ Technical Arsenal
+## ⚙️ Technical Arsenal
+
 <div align="center">
-Technology	Primary Usage	Level
-🐍 Python	Backend Logic & Automation	🔥 Strong
-⚡ C++	DSA & Performance Systems	💪 Advanced
-☕ Java	Enterprise & OOP Systems	📊 Proficient
-🌐 React / Node / Express	Full Stack Development	🚀 Production Ready
-🗄️ MySQL / MongoDB / Firebase	Databases	⚙️ Practical Experience
-☁️ GCP / Firebase Hosting	Cloud Deployment	🌍 Cloud Enabled
+
+| Technology | Primary Usage | Level |
+|------------|--------------|--------|
+| 🐍 Python | Backend Logic & Automation | 🔥 Strong |
+| ⚡ C++ | DSA & Performance Systems | 💪 Advanced |
+| ☕ Java | Enterprise & OOP Systems | 📊 Proficient |
+| 🌐 React / Node / Express | Full Stack Development | 🚀 Production Ready |
+| 🗄️ MySQL / MongoDB / Firebase | Databases | ⚙️ Practical Experience |
+| ☁️ GCP / Firebase Hosting | Cloud Deployment | 🌍 Cloud Enabled |
+
 </div>
-🚀 Key Projects
-Project	Description	Stack	Status
-Eco-Route	Intelligent route optimization engine	Python, C++, Web	🚀 Completed
-Parivartan	Civic issue reporting platform	TypeScript, Firebase	🌐 Live
-Employee Management Portal	Role-based secure system	React, Node, Firebase	🔐 Secure
 📊 GitHub Analytics
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AarushBhagat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushBhagat&layout=compact&theme=tokyonight&hide_border=true" /> <br/> <img src="https://streak-stats.demolab.com?user=AarushBhagat&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AarushBhagat&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" /> </div>
