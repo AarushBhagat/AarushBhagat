@@ -35,6 +35,7 @@ class AarushBhagat {
   }
 }
 ```
+---
 ⚙️ Technical Arsenal
 <div align="center">
 Technology	Primary Usage	Level
