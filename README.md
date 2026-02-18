@@ -21,6 +21,7 @@
 </p>
 
 ---
+```
 class AarushBhagat {
   constructor() {
     this.role = "Full Stack Developer";
