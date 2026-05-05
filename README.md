@@ -55,10 +55,10 @@
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| **[SMG-Portal](https://github.com/AarushBhagat/SMG-Portal)** | Role-based employee management portal with secure workflows | React, TypeScript, Firebase | 🔐 Production System |
+| **[StartupOps](https://github.com/AarushBhagat/StartupOps)** | AI driven startup management system for early stage startups | React, TypeScript, Node, Gemini, Firebase | 🌐 Live System |
 | **[Eco-Route](https://github.com/AarushBhagat/Eco-Route)** | Intelligent fuel-efficient route optimization engine | Python, C++, Web | 🚀 Completed |
 | **[Parivartan](https://github.com/AarushBhagat/Parivartan)** | Civic issue reporting platform with admin dashboard | TypeScript, Node.js, Firebase | 🌐 Live System |
-| **[UniEd](https://github.com/AarushBhagat/UniEd)** | University-focused web platform for academic management | MERN Stack | 🎓 Ongoing |
+| **[UniEd](https://github.com/AarushBhagat/UniEd)** | University-focused web platform for academic management | MERN Stack | 🌐 Live System |
 
 ---
 
