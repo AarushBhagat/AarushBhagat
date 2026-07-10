@@ -62,12 +62,6 @@
 
 ---
 
-##  📊 GitHub Analytics
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AarushBhagat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushBhagat&layout=compact&theme=tokyonight&hide_border=true" /> <br/> <img src="https://streak-stats.demolab.com?user=AarushBhagat&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AarushBhagat&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" /> </div>
-
----
-
 ## 🎯 Current Focus
 
 - 🖥️ Frontend Architecture & UI Systems  
